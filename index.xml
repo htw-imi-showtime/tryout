@@ -31,9 +31,9 @@ The concept is the project foundation and was developed in collaboration and coo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/features/</guid>
-      <description>Features Game-Flow The game is divided into two segments. A single player mode where each of our simple games can be played separately from others.
-In the endless mode where you can play until you run out of hearts. In this mode two randomly selected games of matching genres are displayed in parallel, on the right and left side respectively, and can be played simultaneously.
-Level Systems Our games have four different levels.</description>
+      <description>Features Game-Modes The game is divided into two segments. A single player mode where each of our simple games can be played separately from others.
+In the endless mode you can play until you run out of hearts. In this mode two randomly selected games of matching genres are displayed in parallel, on the right and left side respectively, and can be played simultaneously.
+The skilled ones should start with the Parallel-Mode.</description>
     </item>
     
     <item>
@@ -112,8 +112,9 @@ Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m6-vamx/features/</guid>
-      <description>Features To monitor heart rate, which is a measure of stress, we have integrated a Bluetooth interface into the framework. A paired heart rate device passes on its measured data to VamX. The course of the heart rate is displayed as a graph in the framework in real time.
-VamX and heart rate measuring instrument are connected via bluetooth. For testing the framework we have developed three VR games. Based on their different characteristics, various predictions and scenarios are to be drawn for one&amp;rsquo;s own application.</description>
+      <description>Features VamX Vamx is a editor tool that allows multiple sounds instances to be grouped and controlled by a single component.
+The Editor component allows the user to import a sound file and manipulate various sound properties using different evaluation methods, such as custom graphs for complex sound manipulation. The various sound properties and their evaluation settings can be saved as presets and reused in other sound files.
+The Editor allows importing regular audio files via the Unity-Editor</description>
     </item>
     
     <item>
@@ -519,7 +520,8 @@ Personalized needs with various trackers Different trackers will be developed fo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/process/</guid>
-      <description>Process To start with, we first had to define what a mini-game looks like. As we were able to determine, it was not so easy to commit to the necessary functions. We decided to look at the mini-games as a whole and to view our &amp;ldquo;mini-games&amp;rdquo; as individual tasks of a gaming experience. By implementing simple functions such as pressing a button or moving the control stick in one direction, every gamer&amp;rsquo;s heart is addressed.</description>
+      <description>Process To start with, we first had to define what a mini-game looks like. As we were able to determine, it was not so easy to commit to the necessary functions. We decided to look at the mini-games as a whole and to view our mini-games as individual tasks of a gaming experience.
+By implementing simple functions such as pressing a button or moving the control stick in one direction, every gamer&amp;rsquo;s heart is addressed.</description>
     </item>
     
     <item>
@@ -651,9 +653,8 @@ The process started with a brainstorming session where all potential requirement
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/techstack/</guid>
-      <description>Tech Stack Future In fututre we planed to implement the multiplayer mode, where you can play with and against others.
-To enjoi our game everywhere we planed to implement besides the smartphoneapp a smart fridge version to make shure that every device is.
-Raytracing is also a new feature which will come on high end devices as well.</description>
+      <description>Tech Stack Future In the future, we have some exciting plans in store! Our commitment to continuous improvement and innovation drives us to explore new horizons and bring you a gaming experience like no other.
+More Games: The more the better! A various collection enhances the overall experience. Multiplayer Support: Where you can engage in thrilling gameplay with and against other players. Mechanic Modifiers: For the motivated who are not fully occupied, there are some special events that make your gameplay spicy (e.</description>
     </item>
     
     <item>
@@ -735,7 +736,7 @@ For our weekly sprints, we used the issue (ticket) board and milestones (epics).
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m6-vamx/techstack/</guid>
-      <description>Tech Stack Unity Within the Unity game engine, we developed the sound framework and built the VR test environment. It provided us with many build-in features for programming with sounds and was well suited for development with VR. XR Interaction Toolkit The XR Interaction Toolkit offered us all the basic functions for interaction in VR. With the help of input events and haptic feedback, we were able to make the minigames more interesting and created a good gaming experience.</description>
+      <description>Tech Stack Within the Unity game engine, we developed the sound framework and built the VR test environment. It provided us with many build-in features for programming with sounds and was well suited for development with VR. The XR Interaction Toolkit offered us all the basic functions for interaction in VR. With the help of input events and haptic feedback, we were able to make the minigames more interesting and created a good gaming experience.</description>
     </item>
     
     <item>
@@ -779,6 +780,15 @@ Development TypeScript was used as the programming language, executed on Node.js
       <guid>https://htw-imi-showtime.github.io/tryout/ws22/bachelor/b6-book-reading-club-applikation/teckstack/</guid>
       <description>Organisation and Communication To keep in touch and keep our communication up and running we used a multitude of well known platforms.
 Zoom for our monday meetings Teams for our hybrid thursday meetings WhatsApp for quick questions and coordination Slack for sharing resources and keeping in touch with Diva-E Trello for keeping track of our backlog and our progress on the tickets we wrote Trello Microsoft Teams Zoom Slack WhatsApp Design Miro</description>
+    </item>
+    
+    <item>
+      <title>The Team</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/team/</guid>
+      <description> The team We are a striving group of IMI students, gathered together for the IMI Showtime project to create a wonderful experience for everyone joining our fair booth. Many of us are very creative minds, artistically versatile yet specialists in their respective fields and (semi-)experienced, good game designers. Hence we decided to do the game related project. The Voice (Sound) The Unreal (Dev) The Bughunter (QA) The Changeling (Support) The Doodleista (Art) The Unity (Backend/-drop) The Streamer (Design) </description>
     </item>
     
     <item>

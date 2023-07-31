@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Konzentrationstraining durch Minispiele on IMI Showtime</title>
+    <title>I Can&#39;t C# on IMI Showtime</title>
     <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/</link>
-    <description>Recent content in Konzentrationstraining durch Minispiele on IMI Showtime</description>
+    <description>Recent content in I Can&#39;t C# on IMI Showtime</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language><atom:link href="https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,9 +12,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/features/</guid>
-      <description>Features Game-Flow The game is divided into two segments. A single player mode where each of our simple games can be played separately from others.
-In the endless mode where you can play until you run out of hearts. In this mode two randomly selected games of matching genres are displayed in parallel, on the right and left side respectively, and can be played simultaneously.
-Level Systems Our games have four different levels.</description>
+      <description>Features Game-Modes The game is divided into two segments. A single player mode where each of our simple games can be played separately from others.
+In the endless mode you can play until you run out of hearts. In this mode two randomly selected games of matching genres are displayed in parallel, on the right and left side respectively, and can be played simultaneously.
+The skilled ones should start with the Parallel-Mode.</description>
     </item>
     
     <item>
@@ -23,7 +23,8 @@ Level Systems Our games have four different levels.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/process/</guid>
-      <description>Process To start with, we first had to define what a mini-game looks like. As we were able to determine, it was not so easy to commit to the necessary functions. We decided to look at the mini-games as a whole and to view our &amp;ldquo;mini-games&amp;rdquo; as individual tasks of a gaming experience. By implementing simple functions such as pressing a button or moving the control stick in one direction, every gamer&amp;rsquo;s heart is addressed.</description>
+      <description>Process To start with, we first had to define what a mini-game looks like. As we were able to determine, it was not so easy to commit to the necessary functions. We decided to look at the mini-games as a whole and to view our mini-games as individual tasks of a gaming experience.
+By implementing simple functions such as pressing a button or moving the control stick in one direction, every gamer&amp;rsquo;s heart is addressed.</description>
     </item>
     
     <item>
@@ -32,9 +33,17 @@ Level Systems Our games have four different levels.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/techstack/</guid>
-      <description>Tech Stack Future In fututre we planed to implement the multiplayer mode, where you can play with and against others.
-To enjoi our game everywhere we planed to implement besides the smartphoneapp a smart fridge version to make shure that every device is.
-Raytracing is also a new feature which will come on high end devices as well.</description>
+      <description>Tech Stack Future In the future, we have some exciting plans in store! Our commitment to continuous improvement and innovation drives us to explore new horizons and bring you a gaming experience like no other.
+More Games: The more the better! A various collection enhances the overall experience. Multiplayer Support: Where you can engage in thrilling gameplay with and against other players. Mechanic Modifiers: For the motivated who are not fully occupied, there are some special events that make your gameplay spicy (e.</description>
+    </item>
+    
+    <item>
+      <title>The Team</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/team/</guid>
+      <description> The team We are a striving group of IMI students, gathered together for the IMI Showtime project to create a wonderful experience for everyone joining our fair booth. Many of us are very creative minds, artistically versatile yet specialists in their respective fields and (semi-)experienced, good game designers. Hence we decided to do the game related project. The Voice (Sound) The Unreal (Dev) The Bughunter (QA) The Changeling (Support) The Doodleista (Art) The Unity (Backend/-drop) The Streamer (Design) </description>
     </item>
     
   </channel>

@@ -12,8 +12,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m6-vamx/features/</guid>
-      <description>Features To monitor heart rate, which is a measure of stress, we have integrated a Bluetooth interface into the framework. A paired heart rate device passes on its measured data to VamX. The course of the heart rate is displayed as a graph in the framework in real time.
-VamX and heart rate measuring instrument are connected via bluetooth. For testing the framework we have developed three VR games. Based on their different characteristics, various predictions and scenarios are to be drawn for one&amp;rsquo;s own application.</description>
+      <description>Features VamX Vamx is a editor tool that allows multiple sounds instances to be grouped and controlled by a single component.
+The Editor component allows the user to import a sound file and manipulate various sound properties using different evaluation methods, such as custom graphs for complex sound manipulation. The various sound properties and their evaluation settings can be saved as presets and reused in other sound files.
+The Editor allows importing regular audio files via the Unity-Editor</description>
     </item>
     
     <item>
@@ -22,7 +23,7 @@ VamX and heart rate measuring instrument are connected via bluetooth. For testin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m6-vamx/techstack/</guid>
-      <description>Tech Stack Unity Within the Unity game engine, we developed the sound framework and built the VR test environment. It provided us with many build-in features for programming with sounds and was well suited for development with VR. XR Interaction Toolkit The XR Interaction Toolkit offered us all the basic functions for interaction in VR. With the help of input events and haptic feedback, we were able to make the minigames more interesting and created a good gaming experience.</description>
+      <description>Tech Stack Within the Unity game engine, we developed the sound framework and built the VR test environment. It provided us with many build-in features for programming with sounds and was well suited for development with VR. The XR Interaction Toolkit offered us all the basic functions for interaction in VR. With the help of input events and haptic feedback, we were able to make the minigames more interesting and created a good gaming experience.</description>
     </item>
     
     <item>
