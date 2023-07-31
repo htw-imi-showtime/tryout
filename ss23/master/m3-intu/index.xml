@@ -12,9 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/features/</guid>
-      <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
-Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
-Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+      <description>Interactive Learning Content Intu incorporates interactive learning objects, providing users with the opportunity to actively engage with the content. This includes an animated, exploratory diagram that offers a guided view while also supporting full user control. In addition a practical implementation of the MVC Pattern enables students to better understand and explore relationships within the content. To ensure understanding and retention, Intu also features practical tasks for users to apply and test their newly acquired knowledge.</description>
     </item>
     
     <item>
@@ -23,7 +21,7 @@ Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/process/</guid>
-      <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+      <description>Requirement analysis During the initial phase of our project, we engaged in extensive brainstorming sessions to determine what features our learning application should provide. We came up with more than 70 ideas and requirements that we considered interesting and worthy to explore. During this phase, we gave special attention to identifying strengths and weaknesses of current learning platforms, and emphasized on finding potential new and innovative approaches. Following the brainstorming phase, we conducted several iterations of prioritization which helped us narrow down our focus.</description>
     </item>
     
     <item>
@@ -32,7 +30,12 @@ Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/techstack/</guid>
-      <description> Tech Stack Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. Future Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+      <description>Concept &amp;amp; Design Miro
+Miro was used for the initial brainstorming session, for concretizing the requirements and concept, and for the wireframes. It allowed the team to discuss and visualize ideas and record decisions.
+Figma
+Figma was used to create the UI component library, styleguide and final design of the user interface of intu.
+Development React
+React is a progressive JavaScript framework, leveraging its capabilities to build interactive user interfaces.</description>
     </item>
     
   </channel>

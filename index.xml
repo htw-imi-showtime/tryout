@@ -92,9 +92,7 @@ Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/features/</guid>
-      <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
-Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
-Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+      <description>Interactive Learning Content Intu incorporates interactive learning objects, providing users with the opportunity to actively engage with the content. This includes an animated, exploratory diagram that offers a guided view while also supporting full user control. In addition a practical implementation of the MVC Pattern enables students to better understand and explore relationships within the content. To ensure understanding and retention, Intu also features practical tasks for users to apply and test their newly acquired knowledge.</description>
     </item>
     
     <item>
@@ -573,15 +571,6 @@ At the beginning of the project we brought together our individual skills and in
     
     <item>
       <title>Process</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/process/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/process/</guid>
-      <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
-    </item>
-    
-    <item>
-      <title>Process</title>
       <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m5-quizzer-ai/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -710,15 +699,6 @@ For our weekly sprints, we used the issue (ticket) board and milestones (epics).
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m2-mentist/techstack/</guid>
       <description> Basic Gitlab Discord Zoom Frontend Vue Nuxt3 TailwindCSS Vuetify Backend Django DjangoREST Rasa Open Source </description>
-    </item>
-    
-    <item>
-      <title>Tech Stack</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/techstack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/techstack/</guid>
-      <description> Tech Stack Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. Future Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
     </item>
     
     <item>
@@ -913,6 +893,15 @@ Dashboard The dashboard is the heart of the App, providing organized shortcuts t
       <guid>https://htw-imi-showtime.github.io/tryout/ss20/bachelor/b1-hexarcade/idea-finding/</guid>
       <description>Zu Beginn des Projektes, hatten wir noch keine klare Idee von dem Thema Motorik und Konzentration und wie wir ein dazu passendes Spiel bauen könnten. Deshalb lag unser Fokus am Anfang stark auf der Recherche zu diesem Thema, bevor wir begonnen haben Spieleideen zu sammeln.
 Recherche Wir hatten uns bereits früh darauf geeinigt, dass das Spiel auf Smartphones ausgerichtet sein soll. Aus diesem Grund haben wir uns explizit angesehen, was es bereits für Spiele auf diesen Geräten gibt, die in unsere Thematik passen könnten.</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/process/</guid>
+      <description>Requirement analysis During the initial phase of our project, we engaged in extensive brainstorming sessions to determine what features our learning application should provide. We came up with more than 70 ideas and requirements that we considered interesting and worthy to explore. During this phase, we gave special attention to identifying strengths and weaknesses of current learning platforms, and emphasized on finding potential new and innovative approaches. Following the brainstorming phase, we conducted several iterations of prioritization which helped us narrow down our focus.</description>
     </item>
     
     <item>
@@ -1332,6 +1321,20 @@ This had more than just one reason that all worked together to get to the final 
       
       <guid>https://htw-imi-showtime.github.io/tryout/ws22/master/m3-bempsy-buddy/process/</guid>
       <description>⚙️ Workflow Tasks were divided for the backend and frontend team and documented on a kanban board on GitHub. Every thursday an one hour meeting took place with the product owner and the UX-designer to discuss progress and further tasks. This agile workflow made fast changes requested from the product owner possible. After the weekly meeting, the development team reviewed the meeting discussion again and distributed assignments among the members.</description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/techstack/</guid>
+      <description>Concept &amp;amp; Design Miro
+Miro was used for the initial brainstorming session, for concretizing the requirements and concept, and for the wireframes. It allowed the team to discuss and visualize ideas and record decisions.
+Figma
+Figma was used to create the UI component library, styleguide and final design of the user interface of intu.
+Development React
+React is a progressive JavaScript framework, leveraging its capabilities to build interactive user interfaces.</description>
     </item>
     
     <item>
