@@ -27,10 +27,10 @@ The concept is the project foundation and was developed in collaboration and coo
     
     <item>
       <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/features/</link>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/features/</guid>
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/features/</guid>
       <description>Features Game-Modes The game is divided into two segments. A single player mode where each of our simple games can be played separately from others.
 In the endless mode you can play until you run out of hearts. In this mode two randomly selected games of matching genres are displayed in parallel, on the right and left side respectively, and can be played simultaneously.
 The skilled ones should start with the Parallel-Mode.</description>
@@ -48,10 +48,10 @@ Product comparison ShopGPT analyzes product descriptions and specifications to a
     
     <item>
       <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visualagenda/features/</link>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visual-agenda/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visualagenda/features/</guid>
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visual-agenda/features/</guid>
       <description>Features Agenda Planning Our app lets you effortlessly create well-structured agendas within fixed timeframes. You can organize topics, set time limits, and ensure that meetings stay on track.
 Timekeeping With our intuitive timekeeping feature, you&amp;rsquo;ll receive real-time alerts as you approach each agenda item&amp;rsquo;s time limit. This ensures to keep everyone focused and make every minute count.
 Clear Visual Agenda Overview Our app provides a convenient visual representation of your entire meeting agenda, making it easy for you and your participants to stay oriented and informed about upcoming topics.</description>
@@ -513,10 +513,10 @@ Personalized needs with various trackers Different trackers will be developed fo
     
     <item>
       <title>Process</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/process/</link>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/process/</guid>
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/process/</guid>
       <description>Process To start with, we first had to define what a mini-game looks like. As we were able to determine, it was not so easy to commit to the necessary functions. We decided to look at the mini-games as a whole and to view our mini-games as individual tasks of a gaming experience.
 By implementing simple functions such as pressing a button or moving the control stick in one direction, every gamer&amp;rsquo;s heart is addressed.</description>
     </item>
@@ -533,10 +533,10 @@ The first week was focused on onboarding, reading OpenAI documentation and promp
     
     <item>
       <title>Process</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visualagenda/process/</link>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visual-agenda/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visualagenda/process/</guid>
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visual-agenda/process/</guid>
       <description>Process Our journey began with a crucial kickoff meeting, where we discussed the project&amp;rsquo;s milestones and set the schedules for their completion. During this meeting, the team collaborated to find suitable meeting days and times that would accommodate everyone&amp;rsquo;s busy schedules. In our subsequent meetings, we focused on comprehensive progress updates. We discussed the tasks we had been diligently working on and candidly addressed any challenges we encountered along the way.</description>
     </item>
     
@@ -637,10 +637,10 @@ The process started with a brainstorming session where all potential requirement
     
     <item>
       <title>Tech Stack</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/techstack/</link>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/techstack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/techstack/</guid>
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/techstack/</guid>
       <description>Tech Stack Future In the future, we have some exciting plans in store! Our commitment to continuous improvement and innovation drives us to explore new horizons and bring you a gaming experience like no other.
 More Games: The more the better! A various collection enhances the overall experience. Multiplayer Support: Where you can engage in thrilling gameplay with and against other players. Mechanic Modifiers: For the motivated who are not fully occupied, there are some special events that make your gameplay spicy (e.</description>
     </item>
@@ -657,10 +657,10 @@ Javascript Chrome Extension React NPM Webpack OpenAI API idealo Open Search API 
     
     <item>
       <title>Tech Stack</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visualagenda/techstack/</link>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visual-agenda/techstack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visualagenda/techstack/</guid>
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visual-agenda/techstack/</guid>
       <description>Tech Stack Communication
 For the purpose of communicating with each other we used
 Zoom Teams and WhatsApp. Creative Parts
@@ -763,10 +763,10 @@ Zoom for our monday meetings Teams for our hybrid thursday meetings WhatsApp for
     
     <item>
       <title>The Team</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/team/</link>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/team/</guid>
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/team/</guid>
       <description> The team We are a striving group of IMI students, gathered together for the IMI Showtime project to create a wonderful experience for everyone joining our fair booth. Many of us are very creative minds, artistically versatile yet specialists in their respective fields and (semi-)experienced, good game designers. Hence we decided to do the game related project. The Voice (Sound) The Unreal (Dev) The Bughunter (QA) The Changeling (Support) The Doodleista (Art) The Unity (Backend/-drop) The Streamer (Design) </description>
     </item>
     
