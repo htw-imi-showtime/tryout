@@ -901,7 +901,7 @@ Recherche Wir hatten uns bereits früh darauf geeinigt, dass das Spiel auf Smart
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/process/</guid>
-      <description>Requirement analysis During the initial phase of our project, we engaged in extensive brainstorming sessions to determine what features our learning application should provide. We came up with more than 70 ideas and requirements that we considered interesting and worthy to explore. During this phase, we gave special attention to identifying strengths and weaknesses of current learning platforms, and emphasized on finding potential new and innovative approaches. Following the brainstorming phase, we conducted several iterations of prioritization which helped us narrow down our focus.</description>
+      <description>Requirements Analysis During the initial phase of our project, we engaged in extensive brainstorming sessions to determine what features our learning application should provide. We came up with more than 70 ideas and requirements that we considered interesting and worthy to explore. During this phase, we gave special attention to identifying strengths and weaknesses of current learning platforms, and emphasized on finding potential new and innovative approaches. Following the brainstorming phase, we conducted several iterations of prioritization which helped us narrow down our focus.</description>
     </item>
     
     <item>
@@ -1252,6 +1252,15 @@ Some of our sources are:</description>
     
     <item>
       <title>Challenges</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/challenges/</guid>
+      <description>Research for credible Sources Finding reliable sources posed its own set of challenges. While we gathered valuable information from the lecture notes, we recognized the need to seek additional sources with verifiable credibility. Hence, a lot of research has been conducted. Moreover, we aspired to enhance the transparency of the educational content we provide by incorporating a &amp;lsquo;Sources&amp;rsquo; button. This offers users the chance to immerse further into the subject matter, substantiating their understanding directly from the original resources.</description>
+    </item>
+    
+    <item>
+      <title>Challenges</title>
       <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m4-shop-gpt/challenges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1321,20 +1330,6 @@ This had more than just one reason that all worked together to get to the final 
       
       <guid>https://htw-imi-showtime.github.io/tryout/ws22/master/m3-bempsy-buddy/process/</guid>
       <description>⚙️ Workflow Tasks were divided for the backend and frontend team and documented on a kanban board on GitHub. Every thursday an one hour meeting took place with the product owner and the UX-designer to discuss progress and further tasks. This agile workflow made fast changes requested from the product owner possible. After the weekly meeting, the development team reviewed the meeting discussion again and distributed assignments among the members.</description>
-    </item>
-    
-    <item>
-      <title>Tech Stack</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/techstack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/techstack/</guid>
-      <description>Concept &amp;amp; Design Miro
-Miro was used for the initial brainstorming session, for concretizing the requirements and concept, and for the wireframes. It allowed the team to discuss and visualize ideas and record decisions.
-Figma
-Figma was used to create the UI component library, styleguide and final design of the user interface of intu.
-Development React
-React is a progressive JavaScript framework, leveraging its capabilities to build interactive user interfaces.</description>
     </item>
     
     <item>
@@ -2018,6 +2013,20 @@ a possibility for them to connect with others in the same situation to exchange 
     
     <item>
       <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/techstack/</guid>
+      <description>Concept &amp;amp; Design Miro
+Miro was used for the initial brainstorming session, for concretizing the requirements and concept, and for the wireframes. It allowed the team to discuss and visualize ideas and record decisions.
+Figma
+Figma was used to create the UI component library, styleguide and final design of the user interface of intu.
+Development React
+React is a progressive JavaScript framework, leveraging its capabilities to build interactive user interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
       <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m4-shop-gpt/techstack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -2081,6 +2090,16 @@ Step 2 He starts looking in the Result Map, but isn‘t satisfied with the resul
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b6-security-audit-bot/future/</guid>
       <description>Future For the future, we plan to make the SecurityAuditBot even more powerful by enabling the connection of all relevant databases. This will allow the bot to access a broader database and perform more comprehensive checks on existing entries in the databases.
 Furthermore, we will continuously implement more services to extend the SecurityAuditBot’s functionality and cover more security aspects. This includes implementing a configuration check for services, e.g. to identify and point out default passwords.</description>
+    </item>
+    
+    <item>
+      <title>Future</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/future/</guid>
+      <description>During the creation of the MVP, certain features were excluded due to considerations of scope, time limitations, or their relative importance compared to the essential feature set. This section aims to highlight some of the features that may be added to intu in the future.
+Index Cards One of the features that has already been fully designed for future integration is “Index Cards”. Users will not only be able to transfer learning content into the notes in the knowledge base but also create index cards from it.</description>
     </item>
     
     <item>
