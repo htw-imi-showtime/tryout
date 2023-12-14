@@ -27,92 +27,24 @@ The concept is the project foundation and was developed in collaboration and coo
     
     <item>
       <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/features/</link>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b0-template/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/features/</guid>
-      <description>Features Game-Modes The game is divided into two segments. A single player mode where each of our simple games can be played separately from others.
-In the endless mode you can play until you run out of hearts. In this mode two randomly selected games of matching genres are displayed in parallel, on the right and left side respectively, and can be played simultaneously.
-The skilled ones should start with the Parallel-Mode.</description>
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b0-template/features/</guid>
+      <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
+Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
+Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
     </item>
     
     <item>
       <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b3-shop-gpt/features/</link>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/master/m0-template/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b3-shop-gpt/features/</guid>
-      <description>Features Curated shopping list A curated shopping list offers a thematic shopping experience that provides users with automatic, personalized product recommendations based on specific events or activities they choose. Whether users are preparing for a camping tour, a clubbing night out, or any other occasion, the curated shopping list caters to their unique needs.
-Product comparison ShopGPT analyzes product descriptions and specifications to automatically compare similar products and highlight the most important differences and similarities, helping users make informed purchasing decisions.</description>
-    </item>
-    
-    <item>
-      <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visual-agenda/features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visual-agenda/features/</guid>
-      <description>Features Agenda Planning Our app lets you effortlessly create well-structured agendas within fixed timeframes. You can organize topics, set time limits, and ensure that meetings stay on track.
-Timekeeping With our intuitive timekeeping feature, you&amp;rsquo;ll receive real-time alerts as you approach each agenda item&amp;rsquo;s time limit. This ensures to keep everyone focused and make every minute count.
-Clear Visual Agenda Overview Our app provides a convenient visual representation of your entire meeting agenda, making it easy for you and your participants to stay oriented and informed about upcoming topics.</description>
-    </item>
-    
-    <item>
-      <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b5-spellweaver/features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b5-spellweaver/features/</guid>
-      <description>Features The following is a brief overview of the individual features of our game. They were developed with the goal to playfully try out speech-to-text input in VR and to test its performance. Despite the focus on STT, it was important to us to create a solid and meaningful gaming experience.
-Core Elements three selectable Speech-to-Text API&amp;rsquo;s spell book with different spells that can be turned over wand in different designs to cast the selected spell word error rate analysis board where you can see the transcribed text and what mistakes you made WER analytics board &amp;amp; Score Board SpellBook &amp;amp; Wand .</description>
-    </item>
-    
-    <item>
-      <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b6-security-audit-bot/features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b6-security-audit-bot/features/</guid>
-      <description>Chatbot: A chatbot, the heart of our software, should offer the user a pleasant and intuitive solution to deal with the cyber security of his system, using natural language only. The artificial intelligence classifies the user input and reacts accordingly. It also recognizes previous results and can base new audits on them. An active scan can always be monitored by the user through logs. Results can be viewed permanently at any time.</description>
-    </item>
-    
-    <item>
-      <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m2-mentist/features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m2-mentist/features/</guid>
-      <description>Features Empathetic chatbot companion The chatbot boasts a natural language processing capability, allowing it to offer responses that feel authentic and human-like. Through this, users can engage in conversational interactions that foster a sense of comfort and ease, as if speaking with a caring friend. The chatbot&amp;rsquo;s compassionate and personal approach is a standout feature, as it tailors its responses to each user&amp;rsquo;s emotional state. By recognizing and acknowledging individual struggles, the chatbot becomes a reliable and understanding companion throughout the users&amp;rsquo; mental health journey.</description>
-    </item>
-    
-    <item>
-      <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/features/</guid>
-      <description>Interactive Learning Content Intu incorporates interactive learning objects, providing users with the opportunity to actively engage with the content. This includes an animated, exploratory diagram that offers a guided view while also supporting full user control. In addition a practical implementation of the MVC Pattern enables students to better understand and explore relationships within the content. To ensure understanding and retention, Intu also features practical tasks for users to apply and test their newly acquired knowledge.</description>
-    </item>
-    
-    <item>
-      <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m5-quizzer-ai/features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m5-quizzer-ai/features/</guid>
-      <description>❓ Generate Quizzes With Quzzier AI, generating quiz questions using AI models is effortless. Simply input a topic or term and submit. You have the option to use various models, including GPT-4, GPT-3.5-Turbo, or even your own trained models / knowledge bases. Additionally, you can adjust the answers using optional parameters, such as creativity, logic, and size.
-Generate Quizzes After the questions have been successfully generated by the AI and processed by Quizzer Ai, they can be reviewed in more detail.</description>
-    </item>
-    
-    <item>
-      <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m6-vamx/features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m6-vamx/features/</guid>
-      <description>Features VamX Vamx is a editor tool that allows multiple sounds instances to be grouped and controlled by a single component.
-The Editor component allows the user to import a sound file and manipulate various sound properties using different evaluation methods, such as custom graphs for complex sound manipulation. The various sound properties and their evaluation settings can be saved as presets and reused in other sound files.
-The Editor allows importing regular audio files via the Unity-Editor</description>
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/master/m0-template/features/</guid>
+      <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
+Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
+Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
     </item>
     
     <item>
@@ -279,6 +211,96 @@ Underneath the Map is a modal with a list of all the available POI.</description
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m6-allmende-2/features/</guid>
       <description>Minimalistic Social Media Application Share your pictures with other people and tag the location and species for your findings! Other people can like and comment your posts to support vivid discussions on your new discoveries! Main Page Comment other posts profile page Species Detection With advanced Deep Learning Technology you can identify over 4000 Species! Just upload your picture and choose a catagory and within seconds you get possible species with their propabilities.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/features/</guid>
+      <description>Features Game-Modes The game is divided into two segments. A single player mode where each of our simple games can be played separately from others.
+In the endless mode you can play until you run out of hearts. In this mode two randomly selected games of matching genres are displayed in parallel, on the right and left side respectively, and can be played simultaneously.
+The skilled ones should start with the Parallel-Mode.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b3-shop-gpt/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b3-shop-gpt/features/</guid>
+      <description>Features Curated shopping list A curated shopping list offers a thematic shopping experience that provides users with automatic, personalized product recommendations based on specific events or activities they choose. Whether users are preparing for a camping tour, a clubbing night out, or any other occasion, the curated shopping list caters to their unique needs.
+Product comparison ShopGPT analyzes product descriptions and specifications to automatically compare similar products and highlight the most important differences and similarities, helping users make informed purchasing decisions.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visual-agenda/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b4-visual-agenda/features/</guid>
+      <description>Features Agenda Planning Our app lets you effortlessly create well-structured agendas within fixed timeframes. You can organize topics, set time limits, and ensure that meetings stay on track.
+Timekeeping With our intuitive timekeeping feature, you&amp;rsquo;ll receive real-time alerts as you approach each agenda item&amp;rsquo;s time limit. This ensures to keep everyone focused and make every minute count.
+Clear Visual Agenda Overview Our app provides a convenient visual representation of your entire meeting agenda, making it easy for you and your participants to stay oriented and informed about upcoming topics.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b5-spellweaver/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b5-spellweaver/features/</guid>
+      <description>Features The following is a brief overview of the individual features of our game. They were developed with the goal to playfully try out speech-to-text input in VR and to test its performance. Despite the focus on STT, it was important to us to create a solid and meaningful gaming experience.
+Core Elements three selectable Speech-to-Text API&amp;rsquo;s spell book with different spells that can be turned over wand in different designs to cast the selected spell word error rate analysis board where you can see the transcribed text and what mistakes you made WER analytics board &amp;amp; Score Board SpellBook &amp;amp; Wand .</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b6-security-audit-bot/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b6-security-audit-bot/features/</guid>
+      <description>Chatbot: A chatbot, the heart of our software, should offer the user a pleasant and intuitive solution to deal with the cyber security of his system, using natural language only. The artificial intelligence classifies the user input and reacts accordingly. It also recognizes previous results and can base new audits on them. An active scan can always be monitored by the user through logs. Results can be viewed permanently at any time.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m2-mentist/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m2-mentist/features/</guid>
+      <description>Features Empathetic chatbot companion The chatbot boasts a natural language processing capability, allowing it to offer responses that feel authentic and human-like. Through this, users can engage in conversational interactions that foster a sense of comfort and ease, as if speaking with a caring friend. The chatbot&amp;rsquo;s compassionate and personal approach is a standout feature, as it tailors its responses to each user&amp;rsquo;s emotional state. By recognizing and acknowledging individual struggles, the chatbot becomes a reliable and understanding companion throughout the users&amp;rsquo; mental health journey.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/features/</guid>
+      <description>Interactive Learning Content Intu incorporates interactive learning objects, providing users with the opportunity to actively engage with the content. This includes an animated, exploratory diagram that offers a guided view while also supporting full user control. In addition a practical implementation of the MVC Pattern enables students to better understand and explore relationships within the content. To ensure understanding and retention, Intu also features practical tasks for users to apply and test their newly acquired knowledge.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m5-quizzer-ai/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m5-quizzer-ai/features/</guid>
+      <description>❓ Generate Quizzes With Quzzier AI, generating quiz questions using AI models is effortless. Simply input a topic or term and submit. You have the option to use various models, including GPT-4, GPT-3.5-Turbo, or even your own trained models / knowledge bases. Additionally, you can adjust the answers using optional parameters, such as creativity, logic, and size.
+Generate Quizzes After the questions have been successfully generated by the AI and processed by Quizzer Ai, they can be reviewed in more detail.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m6-vamx/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m6-vamx/features/</guid>
+      <description>Features VamX Vamx is a editor tool that allows multiple sounds instances to be grouped and controlled by a single component.
+The Editor component allows the user to import a sound file and manipulate various sound properties using different evaluation methods, such as custom graphs for complex sound manipulation. The various sound properties and their evaluation settings can be saved as presets and reused in other sound files.
+The Editor allows importing regular audio files via the Unity-Editor</description>
     </item>
     
     <item>
@@ -514,6 +536,33 @@ Personalized needs with various trackers Different trackers will be developed fo
     
     <item>
       <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b0-template/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b0-template/process/</guid>
+      <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/master/m0-template/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/master/m0-template/process/</guid>
+      <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/process/</guid>
+      <description>Research As the very first step of our research, we read multiple studies and articles on the topic obesity and its reduction or prevention in adults as well as in children in order to understand the physiological, psychologial and environmental factors influencing the success or failure of attempted weight loss reduction or weight gain prevention. We summarised our research results on a Miro Board where we collected all our future ideas from there.</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
       <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b2-i-cant-c-sharp/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -580,15 +629,6 @@ At the beginning of the project we brought together our individual skills and in
     
     <item>
       <title>Process</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/process/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/process/</guid>
-      <description>Research As the very first step of our research, we read multiple studies and articles on the topic obesity and its reduction or prevention in adults as well as in children in order to understand the physiological, psychologial and environmental factors influencing the success or failure of attempted weight loss reduction or weight gain prevention. We summarised our research results on a Miro Board where we collected all our future ideas from there.</description>
-    </item>
-    
-    <item>
-      <title>Process</title>
       <link>https://htw-imi-showtime.github.io/tryout/ws21/master/m2-a-better-spotify/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -634,6 +674,35 @@ idealo decided to discontinue the Direktkauf feature, the scope was changed, so 
       <guid>https://htw-imi-showtime.github.io/tryout/ws22/master/m7-valit/process/</guid>
       <description>Requirements Analysis The requirements analysis phase of the project was critical in ensuring the successful delivery of a solution that met the needs of both professors and students. To achieve this goal, a comprehensive approach was taken to gather and evaluate all relevant requirements.
 The process started with a brainstorming session where all potential requirements were documented. This information was then reviewed and prioritized, focusing on the most important features for both target groups.</description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b0-template/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b0-template/techstack/</guid>
+      <description> Tech Stack Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. Future Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/master/m0-template/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/master/m0-template/techstack/</guid>
+      <description> Tech Stack Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. Future Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss20/master/m3-mobile-image-organization/tech-stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss20/master/m3-mobile-image-organization/tech-stack/</guid>
+      <description>TensorFlow TensorFlow ist eine Open-Source Machine Learning Bibliothek von Google, welche unter anderem für Produkte wie Googles Maps, Gmail, Spracherkennung und die Suche selbst verwendet wird.
+Mit dieser Bibliothek ist es möglich Modelle zu bauen und zu trainieren, welche unter anderem zur Erkennung von Bildern und Audios verwendet werden können. Hierbei werden verschiedene Sprachen wie Java, Python und C++ unterstützt.
+TensorFlow arbeitet mit einem Graphen in welchem die Kanten sogenannte Tensoren sind, die n-dimensionale Datenarrays darstellen.</description>
     </item>
     
     <item>
@@ -717,17 +786,6 @@ For our weekly sprints, we used the issue (ticket) board and milestones (epics).
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m6-vamx/techstack/</guid>
       <description>Tech Stack Within the Unity game engine, we developed the sound framework and built the VR test environment. It provided us with many build-in features for programming with sounds and was well suited for development with VR. The XR Interaction Toolkit offered us all the basic functions for interaction in VR. With the help of input events and haptic feedback, we were able to make the minigames more interesting and created a good gaming experience.</description>
-    </item>
-    
-    <item>
-      <title>Tech Stack</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss20/master/m3-mobile-image-organization/tech-stack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss20/master/m3-mobile-image-organization/tech-stack/</guid>
-      <description>TensorFlow TensorFlow ist eine Open-Source Machine Learning Bibliothek von Google, welche unter anderem für Produkte wie Googles Maps, Gmail, Spracherkennung und die Suche selbst verwendet wird.
-Mit dieser Bibliothek ist es möglich Modelle zu bauen und zu trainieren, welche unter anderem zur Erkennung von Bildern und Audios verwendet werden können. Hierbei werden verschiedene Sprachen wie Java, Python und C++ unterstützt.
-TensorFlow arbeitet mit einem Graphen in welchem die Kanten sogenannte Tensoren sind, die n-dimensionale Datenarrays darstellen.</description>
     </item>
     
     <item>
@@ -829,21 +887,21 @@ We all came together every Wednesday to discuss our progress and how to continue
     
     <item>
       <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/features/</guid>
+      <description>Initial Analysis After the initial registration, the user is asked about their previous exercise and eating habits. By analyzing this data, we assign users to a level of health awareness according to the &amp;ldquo;Stages of Change&amp;rdquo; model. From the data provided, e.g. the amount of fruit and vegetables eaten daily, and the calculated awareness level, we then calculate a percentage increase in the initial value, which forms the basis for the defined goals in the weekly challenge.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
       <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m4-shop-gpt/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m4-shop-gpt/features/</guid>
       <description>Product Search And Filter The AI-powered product search and filter feature is the core functionality of shopGPT, designed to help users find and buy products through idealo.de. The user can specify preferences such as price range, brand, or other relevant criteria to narrow down the list of products displayed.
 Product Filter Suggestion Tags Based on your message history, ShopGPT creates tailored and easy-to-understand questions, designed to help you make the most out of your AI shopping assistant.</description>
-    </item>
-    
-    <item>
-      <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/features/</guid>
-      <description>Initial Analysis After the initial registration, the user is asked about their previous exercise and eating habits. By analyzing this data, we assign users to a level of health awareness according to the &amp;ldquo;Stages of Change&amp;rdquo; model. From the data provided, e.g. the amount of fruit and vegetables eaten daily, and the calculated awareness level, we then calculate a percentage increase in the initial value, which forms the basis for the defined goals in the weekly challenge.</description>
     </item>
     
     <item>
@@ -893,25 +951,6 @@ Dashboard The dashboard is the heart of the App, providing organized shortcuts t
       <guid>https://htw-imi-showtime.github.io/tryout/ss20/bachelor/b1-hexarcade/idea-finding/</guid>
       <description>Zu Beginn des Projektes, hatten wir noch keine klare Idee von dem Thema Motorik und Konzentration und wie wir ein dazu passendes Spiel bauen könnten. Deshalb lag unser Fokus am Anfang stark auf der Recherche zu diesem Thema, bevor wir begonnen haben Spieleideen zu sammeln.
 Recherche Wir hatten uns bereits früh darauf geeinigt, dass das Spiel auf Smartphones ausgerichtet sein soll. Aus diesem Grund haben wir uns explizit angesehen, was es bereits für Spiele auf diesen Geräten gibt, die in unsere Thematik passen könnten.</description>
-    </item>
-    
-    <item>
-      <title>Process</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/process/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/process/</guid>
-      <description>Requirements Analysis During the initial phase of our project, we engaged in extensive brainstorming sessions to determine what features our learning application should provide. We came up with more than 70 ideas and requirements that we considered interesting and worthy to explore. During this phase, we gave special attention to identifying strengths and weaknesses of current learning platforms, and emphasized on finding potential new and innovative approaches. Following the brainstorming phase, we conducted several iterations of prioritization which helped us narrow down our focus.</description>
-    </item>
-    
-    <item>
-      <title>Process</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m4-shop-gpt/process/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m4-shop-gpt/process/</guid>
-      <description>Research Choosing Machine Learning (ML) models. We explored different options for ML models that could power the chatbot. Some of the options considered were GPT-3 from OpenAI, Alpaca from Stanford University, and Llama from Meta. We assessed their features, capabilities, and compatibility with our requirements to make an informed decision.
-Getting to know LangChain. LangChain is a framework specifically designed to simplify the creation of applications utilizing large language models.</description>
     </item>
     
     <item>
@@ -1061,6 +1100,25 @@ We used Notion as our main project management tool, Google Drive to visualize ou
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m3-geolocation/_process/</guid>
       <description>Idea The initial idea for this project was brought to HTW by the Marc Sinan Company, that is currently working on a project creating different audio walks through Berlin in order to educate about its history of forced labour. The task was to build a mobile app, that would allow users to follow the audio tours and navigate them through the city and a content management system, to maintain the data from their side.</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/process/</guid>
+      <description>Requirements Analysis During the initial phase of our project, we engaged in extensive brainstorming sessions to determine what features our learning application should provide. We came up with more than 70 ideas and requirements that we considered interesting and worthy to explore. During this phase, we gave special attention to identifying strengths and weaknesses of current learning platforms, and emphasized on finding potential new and innovative approaches. Following the brainstorming phase, we conducted several iterations of prioritization which helped us narrow down our focus.</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m4-shop-gpt/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m4-shop-gpt/process/</guid>
+      <description>Research Choosing Machine Learning (ML) models. We explored different options for ML models that could power the chatbot. Some of the options considered were GPT-3 from OpenAI, Alpaca from Stanford University, and Llama from Meta. We assessed their features, capabilities, and compatibility with our requirements to make an informed decision.
+Getting to know LangChain. LangChain is a framework specifically designed to simplify the creation of applications utilizing large language models.</description>
     </item>
     
     <item>
@@ -1252,6 +1310,15 @@ Some of our sources are:</description>
     
     <item>
       <title>Challenges</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/challenges/</guid>
+      <description>Long conceptual phase For about the first five weeks of our project, we were just doing conceptual work. We had to build an entire app without any precise specifications as to what functions it should perform. Therefore, we did many rounds in the first weeks to develop ideas, develop and discard concepts, and finally work out all the important details: What is the unique selling point of our app? What is our target audience?</description>
+    </item>
+    
+    <item>
+      <title>Challenges</title>
       <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/challenges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1266,15 +1333,6 @@ Some of our sources are:</description>
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m4-shop-gpt/challenges/</guid>
       <description>New AI Technologies Using cutting-edge AI technologies presented us with significant challenges. It required considerable time and effort to thoroughly research Prompt Engineering, GPT models, LangChain framework and grasp these concepts, ensuring a solid understanding for effective integration into our project. Keeping Up with Rapid Technology Changes As technology rapidly evolves, we encountered challenges in staying up-to-date with frequent updates in LangChain versions, OpenAI function calls, GPT models, and Vector Database.</description>
-    </item>
-    
-    <item>
-      <title>Challenges</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/challenges/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/challenges/</guid>
-      <description>Long conceptual phase For about the first five weeks of our project, we were just doing conceptual work. We had to build an entire app without any precise specifications as to what functions it should perform. Therefore, we did many rounds in the first weeks to develop ideas, develop and discard concepts, and finally work out all the important details: What is the unique selling point of our app? What is our target audience?</description>
     </item>
     
     <item>
@@ -2013,6 +2071,15 @@ a possibility for them to connect with others in the same situation to exchange 
     
     <item>
       <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/tech-stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/tech-stack/</guid>
+      <description>Concept &amp;amp; Design Figma To create our design drafts and final designs, we used the graphics editor Figma. Miro Miro offers a great opportunity to collect and share ideas with all the team members. Frontend Flutter To build our app, we used Flutter. It is an open-source framework from Google that allows you to build platform independent apps, based on the programming language Dart. Android Studio In order to run an emulator for our app, we used Android Studio which is a development environment from Google.</description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
       <link>https://htw-imi-showtime.github.io/tryout/ss23/master/m3-intu/techstack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -2032,15 +2099,6 @@ React is a progressive JavaScript framework, leveraging its capabilities to buil
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m4-shop-gpt/techstack/</guid>
       <description>Concept &amp;amp; Design Figma Used for creating and visualizing design concepts, and UI/UX elements. Canva Utilized for designing graphics, logos for the chatbot. Miro Used as a visual collaboration tool, allowing for the sharing of ideas, documents, and links, fostering a collaborative and productive environment. App Development NextJS Chosen as the web framework for building the application, providing server-side rendering, efficient routing, and an enhanced developer experience. React Used for frontend development, React enables the creation of interactive and reusable UI components, while TypeScript enhances code reliability and scalability.</description>
-    </item>
-    
-    <item>
-      <title>Tech Stack</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/tech-stack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/tech-stack/</guid>
-      <description>Concept &amp;amp; Design Figma To create our design drafts and final designs, we used the graphics editor Figma. Miro Miro offers a great opportunity to collect and share ideas with all the team members. Frontend Flutter To build our app, we used Flutter. It is an open-source framework from Google that allows you to build platform independent apps, based on the programming language Dart. Android Studio In order to run an emulator for our app, we used Android Studio which is a development environment from Google.</description>
     </item>
     
     <item>
@@ -2084,6 +2142,15 @@ Step 2 He starts looking in the Result Map, but isn‘t satisfied with the resul
     
     <item>
       <title>Future</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/future/</guid>
+      <description>What more is possible? In our conception phase, we came up with a whole bunch of other ideas that we couldn&amp;rsquo;t implement within the limited number of weeks. Here we list a few of these ideas to illustrate the potential that still lies in the app. More educational content We believe that awareness and education is an important key to a lasting healthier life. Therefore, we have planned to provide more prepared content to users in order to provide more knowledge about nutrition and exercise.</description>
+    </item>
+    
+    <item>
+      <title>Future</title>
       <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b6-security-audit-bot/future/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -2109,15 +2176,6 @@ Index Cards One of the features that has already been fully designed for future 
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss23/master/m4-shop-gpt/future/</guid>
       <description>Uploading Multiple Images It is intended that ShopGPT will support the ability to upload multiple images in the future. This will enable users to provide more detailed visual information about the products they are seeking, allowing for even more accurate and tailored recommendations. Combination of Text and Image Input Currently, the user can either text or upload an image. We want to work towards seamlessly integrating both text and image input simultaneously within ShopGPT.</description>
-    </item>
-    
-    <item>
-      <title>Future</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/future/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/future/</guid>
-      <description>What more is possible? In our conception phase, we came up with a whole bunch of other ideas that we couldn&amp;rsquo;t implement within the limited number of weeks. Here we list a few of these ideas to illustrate the potential that still lies in the app. More educational content We believe that awareness and education is an important key to a lasting healthier life. Therefore, we have planned to provide more prepared content to users in order to provide more knowledge about nutrition and exercise.</description>
     </item>
     
     <item>
@@ -2150,15 +2208,6 @@ Editor For Creating Individual Questionnaires The editor will allow users to eas
     
     <item>
       <title>Team</title>
-      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b6-security-audit-bot/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b6-security-audit-bot/team/</guid>
-      <description> The team We are a young team of three people who worked on the whole creation of the project: Kjell Liebher Minh Vo Mirijam Trippel </description>
-    </item>
-    
-    <item>
-      <title>Team</title>
       <link>https://htw-imi-showtime.github.io/tryout/ss21/master/m2-something-unreal/_team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -2174,6 +2223,15 @@ In the beginning, everyone shared their preferences on what they would like to c
       
       <guid>https://htw-imi-showtime.github.io/tryout/ss22/master/m1-could-it-be-more-unreal/_team/</guid>
       <description>The Team We are a team of 8 people in total. This semester, we decided to develop a playable Unreal Engine 5 showcase demo. Each of us had different prior knowledge of the Unreal Engine at the beginning of the project. In the past 4 months we have done our best to demonstrate the new features of the Unreal Engine 5 in a short playable demo. In the process we also encountered various challenges, be it the hardware-hungry Unreal Engine 5, unstable performance or the lack of sufficient repository space.</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b6-security-audit-bot/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ss23/bachelor/b6-security-audit-bot/team/</guid>
+      <description> The team We are a young team of three people who worked on the whole creation of the project: Kjell Liebher Minh Vo Mirijam Trippel </description>
     </item>
     
     <item>
@@ -2451,7 +2509,7 @@ Diese Website verwendet keine Cookies und speichert keine Informationen, die üb
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/tryout/projects/</guid>
-      <description>This term there are 5 bachelor&amp;rsquo;s and 5 master&amp;rsquo;s projects. To get an idea of the scope and characteristics of our projects, you may also want to visit the archive.</description>
+      <description>Projects will be published soon. To get an idea of the scope and characteristics of our projects, you may also want to visit the archive.</description>
     </item>
     
     <item>
