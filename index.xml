@@ -27,6 +27,17 @@ The concept is the project foundation and was developed in collaboration and coo
     
     <item>
       <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b5-smartlibrary/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b5-smartlibrary/features/</guid>
+      <description>Features Keyword extraction:
+Moodle Course: By reading keywords from course names, course descriptions and keywords added by the educators we remove common words, which are stored in a blacklist, such as &amp;ldquo;a,&amp;rdquo; &amp;ldquo;an,&amp;rdquo; etc. (Functionality and blacklist sourced from beliefmedia.com). SmartLibrary constructs SQL queries from the extracted keywords to read material names and links associated with the keywords from the database.
+Crawler: We built a crawler which can extract learning material names and keywords from the HTML code of websites such as Coursera.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
       <link>https://htw-imi-showtime.github.io/tryout/ss21/bachelor/b1-strollr-project/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1242,6 +1253,17 @@ Some of our sources are:</description>
     </item>
     
     <item>
+      <title>Processs</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b5-smartlibrary/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b5-smartlibrary/process/</guid>
+      <description>Process We dedicated initial time to conceptualising the idea for the plugin, exploring its potential impact and benefits. This involved learning from Moodle Academy about building Moodle plugins and creating first drafts to outline key functionalities.
+With a clearer vision, we strategically divided the overall idea into smaller, manageable tasks. Each task was designed to contribute to the overarching goal of the plugin.
+Adopting agile methodologies, we embraced a collaborative and iterative approach.</description>
+    </item>
+    
+    <item>
       <title>Product Vision</title>
       <link>https://htw-imi-showtime.github.io/tryout/ss20/bachelor/b5-the-missing-tool-projekt/product-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1339,6 +1361,15 @@ This had more than just one reason that all worked together to get to the final 
       
       <guid>https://htw-imi-showtime.github.io/tryout/ws22/master/m3-bempsy-buddy/process/</guid>
       <description>⚙️ Workflow Tasks were divided for the backend and frontend team and documented on a kanban board on GitHub. Every thursday an one hour meeting took place with the product owner and the UX-designer to discuss progress and further tasks. This agile workflow made fast changes requested from the product owner possible. After the weekly meeting, the development team reviewed the meeting discussion again and distributed assignments among the members.</description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b5-smartlibrary/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b5-smartlibrary/techstack/</guid>
+      <description> Tech Stack Our tech stack consists of the following tools &amp;amp; technologies: </description>
     </item>
     
     <item>
@@ -1727,6 +1758,16 @@ Da wäre zum einen ein Free Play-Modus. Statt von uns erstellten Leveln, werden 
       
       <guid>https://htw-imi-showtime.github.io/tryout/ws22/master/m3-bempsy-buddy/challenges/</guid>
       <description>❓ Understanding Concept and Construct Data Structure Model One important challenge was to understand and design an appropriate data model for all given conditions. The first wireframes were not fully finished, which is the reason some frames needed to be more clarified to continue the implementation. 🗣️ Close Cooperation and Communication Overall communication and close cooperation were significant parts of the project since exchanging information about features or general information about the application was crucial for the development process.</description>
+    </item>
+    
+    <item>
+      <title>Future</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b5-smartlibrary/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b5-smartlibrary/future/</guid>
+      <description>Future NLP Integration:
+As part of our ongoing development, we are planning to extract keywords from learning materials on Moodle by converting PDF Files with educator’s learning materials into searchable text using a PDF Reader Library. Subsequently, we analyse the text for keywords using Natural Language Processing. This comprehensive approach ensures that the SmartLibrary plugin not only remains cutting-edge but also addresses diverse content formats, including PDF materials.</description>
     </item>
     
     <item>
