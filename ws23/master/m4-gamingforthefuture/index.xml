@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M4 Gaming for Future: A video game about water scarcity in Brandenburg (M4 Gaming for Future: Ein Videospiel über Wasserknappheit in Brandenburg) on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/tryout/ws23/master/m4-gamingforthefuture/</link>
+    <description>Recent content in M4 Gaming for Future: A video game about water scarcity in Brandenburg (M4 Gaming for Future: Ein Videospiel über Wasserknappheit in Brandenburg) on IMI Showtime</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language><atom:link href="https://htw-imi-showtime.github.io/tryout/ws23/master/m4-gamingforthefuture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/master/m4-gamingforthefuture/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/master/m4-gamingforthefuture/process/</guid>
+      <description>Initial Meetings Discussed the project with Rebecca and David to identify the core problem related to water scarcity in Brandenburg. Received relevant documents from Rebecca for further understanding. Communication and Iteration We engaged in back-and-forth communication with Rebecca and David to refine the project details every week. Flow Charts Developed flow charts to map out the game. Then we created initial prototypes and designs using Figma to visualize the project.</description>
+    </item>
+    
+  </channel>
+</rss>
