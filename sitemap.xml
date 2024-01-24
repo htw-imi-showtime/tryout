@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://htw-imi-showtime.github.io/tryout/ws23/master/m3-lep/challenges/</loc>
+  </url><url>
     <loc>https://htw-imi-showtime.github.io/tryout/ss23/master/m2-mentist/challenges/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/tryout/ss21/bachelor/b4-manifesto/concept/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b5-smartlibrary/features/</loc>
+  </url><url>
+    <loc>https://htw-imi-showtime.github.io/tryout/ws23/master/m3-lep/features/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/tryout/ss21/bachelor/b1-strollr-project/features/</loc>
   </url><url>
@@ -106,9 +110,13 @@
   </url><url>
     <loc>https://htw-imi-showtime.github.io/tryout/ss20/bachelor/b5-the-missing-tool-projekt/finding-ideas/</loc>
   </url><url>
+    <loc>https://htw-imi-showtime.github.io/tryout/ws23/master/m3-lep/future/</loc>
+  </url><url>
     <loc>https://htw-imi-showtime.github.io/tryout/ss23/master/m2-mentist/future/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/tryout/ws23/master/m0-template/process/</loc>
+  </url><url>
+    <loc>https://htw-imi-showtime.github.io/tryout/ws23/master/m3-lep/process/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/tryout/ss22/master/m5-adipositas-prevention/process/</loc>
   </url><url>
@@ -135,6 +143,8 @@
     <loc>https://htw-imi-showtime.github.io/tryout/ws22/bachelor/b6-book-reading-club-applikation/process/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/tryout/ws22/master/m7-valit/process/</loc>
+  </url><url>
+    <loc>https://htw-imi-showtime.github.io/tryout/ws23/master/m3-lep/techstack/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/tryout/ss20/master/m3-mobile-image-organization/tech-stack/</loc>
   </url><url>
@@ -625,6 +635,8 @@
     <loc>https://htw-imi-showtime.github.io/tryout/ws20/bachelor/b1-kiss/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/tryout/ws21/master/m4-lcvd/</loc>
+  </url><url>
+    <loc>https://htw-imi-showtime.github.io/tryout/ws23/master/m3-lep/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/tryout/ss21/bachelor/b4-manifesto/</loc>
   </url><url>
