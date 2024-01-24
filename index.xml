@@ -47,6 +47,16 @@ Crawler: We built a crawler which can extract learning material names and keywor
     
     <item>
       <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b7-ar-interaction-city/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b7-ar-interaction-city/features/</guid>
+      <description>Communication Wifi To ensure that our hardware can communicate smoothly in the same network, we use a Raspberry Pi as a WLAN hotspot. This ensures an uninterrupted connection and enables our devices to work together optimally.
+MQTT Communication takes place via MQTT, an open network protocol for machine-to-machine communication. The Arduino uses the MQTT protocol to send messages to the Raspberry Pi, which acts as an MQTT broker. At the same time, the HoloLens glasses subscribe to these messages to receive real-time information.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
       <link>https://htw-imi-showtime.github.io/tryout/ws23/master/m3-lep/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -552,6 +562,15 @@ Personalized needs with various trackers Different trackers will be developed fo
     
     <item>
       <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b7-ar-interaction-city/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b7-ar-interaction-city/process/</guid>
+      <description>Organization The project began with a kick-off meeting in which the basic project idea was explained and requirements defined. We also immediately set weekly meeting times that fit into everyone&amp;rsquo;s schedule. In the weeks that followed, we collected ideas for implementation and entered them as issues in our issue tracker, set up the individual parts of the project and started implementing solutions. In the weekly meetings, we informed each other about the project status and discussed our next steps.</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
       <link>https://htw-imi-showtime.github.io/tryout/ws23/master/m0-template/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -690,6 +709,17 @@ idealo decided to discontinue the Direktkauf feature, the scope was changed, so 
       <guid>https://htw-imi-showtime.github.io/tryout/ws22/master/m7-valit/process/</guid>
       <description>Requirements Analysis The requirements analysis phase of the project was critical in ensuring the successful delivery of a solution that met the needs of both professors and students. To achieve this goal, a comprehensive approach was taken to gather and evaluate all relevant requirements.
 The process started with a brainstorming session where all potential requirements were documented. This information was then reviewed and prioritized, focusing on the most important features for both target groups.</description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b7-ar-interaction-city/technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b7-ar-interaction-city/technology/</guid>
+      <description>Organisation and Communication We used Mattermost for our internal communication and for issue tracking.
+Mattermost Development HoloLens To develop the AR/XR App that is running on the HoloLens 2 we used Visual Studio (Code) and Unity with MRTK2.
+Raspberry The Rapsberry Pi runs the Debian Raspberry Distribution and is the communication middleware. It serves as the mqtt broker and the wifi hotspot that the arduino and hololens connect too. The Raspberry Pi was set up with the CLI</description>
     </item>
     
     <item>
@@ -948,6 +978,15 @@ Dashboard The dashboard is the heart of the App, providing organized shortcuts t
       
       <guid>https://htw-imi-showtime.github.io/tryout/ws22/master/m7-valit/features/</guid>
       <description>Dashboard The dashboard overview shows important statistics such as the overall course rating and the number of dial-ins. Recent courses for quick access and also upcoming courses, along with a calendar are provided. Course Overview The course overview displays all courses of the lecturer with related information such as semester, degree, program, etc. The lecturer has the option to create a new course, so the application automatically creates an evaluation on the given dates.</description>
+    </item>
+    
+    <item>
+      <title>Future</title>
+      <link>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b7-ar-interaction-city/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/tryout/ws23/bachelor/b7-ar-interaction-city/future/</guid>
+      <description>Future Our project is very open and creates a basis for extended reality. You can consider incorporating new interactions, such as switches or touch panels, or changing the platform and running the project on a tablet or VR glasses. New use cases can also be devised and tested. This project could be used very well in industry for maintenance work on machines and establish communication from the machine to the goggles.</description>
     </item>
     
     <item>
